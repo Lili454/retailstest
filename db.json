@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "orderNo": 12345,
+      "orderNumber": 12345,
       "items": [
         {
           "itemNo": 1,
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "orderNo": 54321,
+      "orderNumber": 54321,
       "availability": "Available",
       "estimatedDelDate": "30-11-2022",
       "items": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "orderNo": 22333,
+      "orderNumber": 22333,
       "orderDate": "01-11-2022",
       "overallOrderStatus": "cancelled",
       "cancelledReason": "no stock",
