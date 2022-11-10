@@ -8,7 +8,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Yellow Summer Dress",
               "quantity": 1,
               "Size": "S",
@@ -22,7 +22,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Yellow Summer Dress",
               "quantity": 1,
               "Size": "M",
@@ -36,7 +36,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Yellow Summer Dress",
               "quantity": 1,
               "Size": "L",
@@ -49,7 +49,7 @@
     },
     {
       "articleNo": 54321,
-      "availability": "available",
+      "availability": "Available",
       "estimatedDelDate": "30-11-2022",
       "items": [
         {
@@ -57,7 +57,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "Out of Stock",
+              "Availability": "Out of Stock",
               "Item": "Pink Sweater",
               "quantity": 1,
               "Size": "S",
@@ -71,7 +71,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Pink Sweater",
               "quantity": 1,
               "Size": "M",
@@ -85,7 +85,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Pink Sweater",
               "quantity": 1,
               "Size": "L",
@@ -107,7 +107,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Classic T-Shirt",
               "quantity": 1,
               "Size": "M",
@@ -121,7 +121,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Classic T-Shirt",
               "quantity": 1,
               "Size": "L",
@@ -135,7 +135,7 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "availability": "available",
+              "Availability": "Available",
               "Item": "Classic T-Shirt",
               "quantity": 1,
               "Size": "XL",
