@@ -1,0 +1,150 @@
+{
+  "orders": [
+    {
+      "articleNo": 12345,
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Yellow Summer Dress",
+              "quantity": 1,
+              "Size": "S",
+              "Color": "Yellow",
+              "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+     {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Yellow Summer Dress",
+              "quantity": 1,
+              "Size": "M",
+              "Color": "Yellow",
+              "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+        {
+          "itemNo": 3,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Yellow Summer Dress",
+              "quantity": 1,
+              "Size": "L",
+              "Color": "Yellow",
+              "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "articleNo": 54321,
+      "availability": "available",
+      "estimatedDelDate": "30-11-2022",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "Out of Stock",
+              "Item": "Pink Sweater",
+              "quantity": 1,
+              "Size": "S",
+              "Color": "Pink",
+              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Pink Sweater",
+              "quantity": 1,
+              "Size": "M",
+              "Color": "Pink",
+              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+        {
+          "itemNo": 3,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Pink Sweater",
+              "quantity": 1,
+              "Size": "L",
+              "Color": "Pink",
+              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNo": 22333,
+      "orderDate": "01-11-2022",
+      "overallOrderStatus": "cancelled",
+      "cancelledReason": "no stock",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Classic T-Shirt",
+              "quantity": 1,
+              "Size": "M",
+              "Color": "White",
+              "url": "https://img.freepik.com/free-photo/man-with-sunglasses-wearing-white-t-shirt-posing_158538-16723.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Classic T-Shirt",
+              "quantity": 1,
+              "Size": "L",
+              "Color": "White",
+              "url": "https://img.freepik.com/free-photo/man-with-sunglasses-wearing-white-t-shirt-posing_158538-16723.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        },
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "availability": "available",
+              "Item": "Classic T-Shirt",
+              "quantity": 1,
+              "Size": "XL",
+              "Color": "White",
+              "url": "https://img.freepik.com/free-photo/man-with-sunglasses-wearing-white-t-shirt-posing_158538-16723.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
